@@ -2,6 +2,6 @@
 
 UI News App - React Native
 
-![Screenshot](Screenshot_1599689875.png)
+![Screenshot](Screenshot_159968987.png)
 
-![Screenshot2](Screenshot_1599689881.png)
+![Screenshot2](Screenshot_159968988.png)
